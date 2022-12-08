@@ -1,0 +1,20 @@
+
+body{
+    background-color: black;
+}
+h1{
+    color: #8c2de6;
+}
+.bg-purple{
+    background-color: #7c27cc;
+}
+.searchbar{
+    color: white;
+}
+img{
+    border-radius: 0%;
+    transition: 0.5s;
+}
+img:hover{
+    border-radius: 10%;
+}
